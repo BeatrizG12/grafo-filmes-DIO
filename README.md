@@ -7,12 +7,6 @@ O objetivo é representar usuários, conteúdos (filmes e séries) e seus relaci
 Este projeto foi desenvolvido com foco em **clareza de modelagem**, **organização** e **boas práticas**, sendo adequado para fins acadêmicos e de portfólio técnico.
 
 ---
-
-## Modelo de Grafo
-![Modelo do Grafo](graph-model.png)
-
----
-
 ## Entidades Principais
 - **User**: usuários da plataforma
 - **Movie**: filmes disponíveis
